@@ -4,7 +4,7 @@ Where to find me?
 # Discord: Xinc#0116
 
 ## Skills 🛠
-![Bash](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Want to learn
