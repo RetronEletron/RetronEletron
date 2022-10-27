@@ -4,7 +4,7 @@ Where to find me?
 # Discord: Xinc#0116
 
 ## Skills 🛠
-![Bash](https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Terminal-icon.png) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://raw.githubusercontent.com/RetronEletron/RetronEletron/main/Bash_Logo_Colored%20(1).png) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## Want to learn
