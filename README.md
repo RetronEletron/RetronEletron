@@ -7,7 +7,7 @@ Where to find me?
 ![Bash](https://raw.githubusercontent.com/RetronEletron/RetronEletron/main/Bash_Logo_Colored%20(1).png) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## Want to learn
+## In progress
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Tools i use 🗒️
